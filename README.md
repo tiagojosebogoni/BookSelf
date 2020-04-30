@@ -11,6 +11,6 @@ Este projeto foi iniciado com  [Create React App](https://github.com/facebook/cr
 Os dados do projeto estão sendo armazenados no localStorage do browse, e podendo ser localizados o arquivo api.js na pasta do projeto.
 
 ## Tecnologias
-# Eslint
-# Prettier
-# Styled-Components
+ `Eslint`
+ `Prettier`
+ `Styled-Components`
